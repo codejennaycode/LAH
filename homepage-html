@@ -1,0 +1,93 @@
+<! DOCTYPE html>
+<html>
+<head>
+	<link rel="stylesheet" type="text/css" href="/Users/jcrawford/Desktop/stylesheet.css">
+	<title>Literally Always Hungry</title>
+	<meta charset="utf-8"> 
+	<meta name="description" content="A fitness blog for people who really love to eat. Get the Will Swear for Cake workout plus meal plan today!">
+	<meta name="keywords" content="balance, fitness, workout guide, meal plan, nutrition plan, cake recipes, vegan recipes, vegan cake, exercise guide, will swear for cake, body weight workout, dumbbell workout, hungry, always hungry, vegan meal plan">
+</head>
+
+
+<body>
+	<div class="logo">
+		<img src="/Users/jcrawford/Desktop/assets/crop-logo.png">
+    </div>
+
+	 <div class="nav">
+		<nav>
+			<ul>
+        		<li><a href="#">Contact</a></li>
+        		<li><a href="#">Blog</a></li>
+        		<li><a href="#">Order</a></li>
+        		<li><a href="#">Workout Guide</a></li>
+        	</ul>
+   		 </nav>
+	  </div>
+
+
+<div>
+	<img class="hero" img src="/Users/jcrawford/Desktop/assets/header.png">
+</div>
+
+<div class="row">
+ 
+  <div class="column">
+  	<img class="content" img src="/Users/jcrawford/Desktop/assets/ice-cream-cake.jpg">
+  	<br>
+  	<div class="text-left">
+  	<h2>Will Sweat for Cake</h2>
+	     <p>Download our "Will Sweat for Cake" workout guide to get fit while eating dessert!</p>
+	     <p>You'll get custom workouts and a nutrition plan designed to ler you eat dessert every single day, but still see results! It's full of exclusive healthy recipes you won't find on the blog -- like pre-workout cake bites and post-workout recovery bowls!</p></div>
+	     <div class ="button-container"><button>Download Guide</button></div>
+	 <img class="content" img src="/Users/jcrawford/Desktop/assets/lah-original.png">
+	 <br>
+	 <div class="text-left">
+	    <h2>Join the Community</h2>
+	     <p>Follow us on social media and share your progress pictures or favorite LAH recipes with the hashtag #willsweatforcake.</p>
+	     <p>Want to learn how to decorate cakes? Our social channels are where you'll find behind-the-scenes videos and photos!</p>
+	     <a href="https://instagram.com/literallyalwayshungry"></a></div>
+	     <div class ="button-container"><button>Get Social</button></div>
+  </div>
+
+
+  
+  <div class="column">
+  	<div class="text-right">
+    <h2>Literally Always Hungry</h2>
+	<p>We're built on BALANCE. What started as "a fitness blog for people who really love to eat" became a business that balances cake with crunches and donuts with diets.</p>
+	<p>At LAH, we're never going to say you can't have your cake and eat it too, but we might give you a few healthier cake recipes or workout ideas to keep you balanced.</p></div>
+	<div class ="button-container"><button>Get Recipes</button></div>
+	<img class="content" img src="/Users/jcrawford/Desktop/assets/wsfc.jpg">
+	<br>
+	<div class="text-right">
+	 <h2>Try an LAH Original</h2>
+	     <p>We bake and ship custom cakes all over the country! If you're in the Los Angeles area, the sky is the limit. <a href="link">Order a custom LAH creation today</a></p>
+	     <p>Don't live nearby? <a href="link">Order a custom cake-in-a-jar</a> for yourself or a friend! Ships anywhere in the US.</p></div>
+	     <div class ="button-container"><button>Order Now</button></div>
+	<img class="content" img src="/Users/jcrawford/Desktop/assets/community.jpg">
+</div>
+</div>
+
+<br>
+<br>
+<br>
+<div class="footer">
+<footer>
+	<a href="#faq">FAQ</a>
+	<a href="#about">ABOUT US</a>
+	<a href="#terms">TERMS AND CONDITIONS</a>
+	<a href="#contact">CONTACT</a>
+	<a href="#blog">BLOG</a>
+	<br>
+	<br>
+	<br>
+	<a href="#facebook">FACEBOOK        \</a>
+	<a href="#twitter">TWITTER        \</a>
+	<a href="#insta">INSTAGRAM</a>
+	<br>
+	<img class="footer-img" img src="/Users/jcrawford/Desktop/assets/footer.png">
+</footer>
+</div>
+</body>
+</html>
