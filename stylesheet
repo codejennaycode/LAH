@@ -1,0 +1,118 @@
+body {
+	font-family: gill sans;
+	margin-right: 40px;
+	margin-left: 40px;
+}
+
+h2 {
+	color: pink;
+	font-size: 40px;
+	text-align: center;
+}
+
+p {
+	font-size: 20px;
+}
+.logo {
+	position: relative;
+	height: 150px;
+	width: 350px;
+	float: left;
+}
+
+nav > ul {
+    list-style-type: none;
+    overflow: hidden;
+    float: right;
+    padding-top: 100px;
+}
+
+nav li {
+	display: inline;
+
+}
+
+nav li a {
+    display: inline;
+    color: pink;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+   	font-size: 30px;
+}
+
+nav li a:hover {
+    color:  #00e6e6;
+}
+
+a {
+	color: pink;
+	text-decoration: none;
+}
+
+button {
+	background-color: #00e6e6;
+	color: #fff;
+	font-family: gill sans;
+	font-size: 30px;
+}
+
+.button-container {
+  text-align: center;
+}
+
+.hero {
+	height: auto;
+	width: 100%;
+	align-content: center;
+}
+
+.row {
+    display: flex;
+}
+
+.column {
+    flex: 50%;
+    column-gap: 0px;
+}
+
+.text-left {
+	text-align: justify;
+	padding-left: 40px;
+}
+
+.text-right{
+	text-align: justify;
+	padding-right: 40px;
+}
+
+.content {
+	width: 400px;
+	height: 300px;
+	padding-left: 100px;
+	padding-right: 0px;
+	padding-top: 50px;
+	padding-bottom: 10px;
+}
+
+footer {
+	background-color: pink; 
+	text-align: center;
+	font-size: 30px;
+}
+
+footer a{
+	color: #fff;
+	display: inline-block;
+	padding: 14px 16px;
+
+}
+
+footer a:hover {
+	color: #00e6e6;
+}
+
+.footer-img {
+	width: 100%;
+	align-content: center;
+}
